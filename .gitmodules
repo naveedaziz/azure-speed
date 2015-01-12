@@ -1,0 +1,3 @@
+[submodule "phonegap-plugins"]
+	path = phonegap-plugins
+	url = https://github.com/naveedaziz/phonegap-plugins.git
